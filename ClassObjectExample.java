@@ -1,4 +1,3 @@
-
 //Main class
 public class ClassObjectExample { 
     public static void main(String[] args){
@@ -23,8 +22,7 @@ public class ClassObjectExample {
 
         myCar2.display();
     }
-}
-//Creating class to define the properties of the car
+}//Creating class to define the properties of the car
 class Car{                            
     // declaring variables
     int speed;                        
@@ -44,4 +42,3 @@ class Car{
         System.out.println("Color: " + color);
     }
 }
-
