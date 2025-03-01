@@ -2,7 +2,6 @@
 interface Animal {
     void makeSound();    // abstract method (no body)
 }
-
 // concrete class implementing the interface
 class Dog implements Animal{
     @Override
@@ -10,7 +9,6 @@ class Dog implements Animal{
         System.out.println("Dog barks");
     }
 }
-
 public class AbstractionUsingInterfaces {
 
     /**
