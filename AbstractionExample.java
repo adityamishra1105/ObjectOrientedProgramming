@@ -20,7 +20,6 @@ class Car extends Vehicle { // Corrected class name (capitalized to match Java c
         System.out.println("Car starts with a key");
     }
 }
-
 public class AbstractionExample {
     public static void main(String[] args) {
         // Creating an object of the concrete subclass, not the abstract class
