@@ -1,4 +1,3 @@
-
 public class InheritanceExample {
     public static void main(String[] args) {
         Ford myFord = new Ford("Mustang", "GT", 350);
