@@ -1,4 +1,3 @@
-
 public class StaticExample {
     public static void main(String[] args) {
         //calling the static method without creating an object
